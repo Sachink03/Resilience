@@ -224,7 +224,7 @@
                                     <div class="modal-dialog  modal-dialog-centered modal-lg" role="document">
                                         <div class="modal-content">
                                             <div class="modal-header">
-                                                <h3 class="title ">Your Wallets</h3><button type="button"
+                                                <h3 class="title ">Your Wallet</h3><button type="button"
                                                     class="btn-close" data-bs-dismiss="modal"
                                                     aria-label="Close"></button>
                                             </div>
